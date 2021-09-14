@@ -1,0 +1,15 @@
+.navbar {
+    height: 50px;
+    padding-left: 5%;
+    
+}
+
+.navbar-brand{
+   width: 30%;
+}
+
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 3.25rem;
+    padding-left: 3.25rem;
+}
+

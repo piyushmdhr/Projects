@@ -1,0 +1,73 @@
+.sidebar-brand-text {
+    height: 4.375rem;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 800;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    z-index: 1;
+    color: lightgray;
+
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0rem;
+    padding-bottom: 0.5rem;
+
+}
+
+.nav-item {
+    padding-top: 20px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+
+}
+
+.nav-link {
+    color: #fff;
+    font-weight: 600;
+
+}
+
+.nav-link:hover {
+    color: darkgrey;
+
+}
+
+.col-sm-3 {
+    -ms-flex: 0 0 18%;
+    flex: 0 0 18%;
+    max-width: 20%;
+    background-color: #3c4b64;
+    margin-top: 0px;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0rem;
+    padding-bottom: 0.5rem;
+}
+
+#top-nav{
+
+    margin-left: 1100px;
+
+}
+
+#admin_logout{
+
+    text-decoration: none;
+}
